@@ -138,7 +138,7 @@ const IntroCard = ({ onExplore }) => {
                 {/* Greeting */}
                 <motion.div variants={itemVariants}>
                   <p className="mb-3 inline-flex rounded-full border border-teal-200/20 bg-teal-300/10 px-4 py-2 text-sm font-semibold text-teal-100">
-                    Digital portfolio // creative developer mode
+                    Digital portfolio
                   </p>
                   <h1 className="text-4xl sm:text-5xl font-bold mb-2">
                     Hi, I'm <span className="gradient-text">Varunavi B</span>
@@ -230,7 +230,7 @@ const IntroCard = ({ onExplore }) => {
                   </motion.button>
 
                   <motion.a
-                    href="/resume.pdf"
+                    href="/img/resume.pdf"
                     whileHover={{
                       scale: 1.05,
                       boxShadow: '0 0 20px rgba(56, 189, 248, 0.3)',
