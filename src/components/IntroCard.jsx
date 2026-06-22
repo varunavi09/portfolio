@@ -101,7 +101,7 @@ const IntroCard = ({ onExplore }) => {
                     className="relative w-56 h-56 rounded-full overflow-hidden border-4 border-accent"
                   >
                     <img
-                      src="/src/assets/varunavi-profile.jpeg"
+                      src="/img/varunavi-profile.jpeg"
                       alt="Varunavi B"
                       className="w-full h-full object-cover"
                     />
