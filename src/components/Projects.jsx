@@ -143,7 +143,7 @@ const Projects = () => {
                       View Code
                     </motion.a>
                     <motion.a
-                      href={project.liveDemo}
+                      href={"https://sentimentanalysisappnlp-exsshvxf5axgqcvh6fzmxy.streamlit.app/"}
                       target="_blank"
                       rel="noopener noreferrer"
                       whileHover={{ scale: 1.05, boxShadow: '0 0 20px rgba(56, 189, 248, 0.3)' }}

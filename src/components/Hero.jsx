@@ -32,9 +32,9 @@ const Hero = () => {
   }
 
   const socialIcons = [
-    { icon: FaGithub, url: 'https://github.com', label: 'GitHub' },
-    { icon: FaLinkedin, url: 'https://linkedin.com', label: 'LinkedIn' },
-    { icon: MdEmail, url: 'mailto:your.email@example.com', label: 'Email' },
+    { icon: FaGithub, url: 'https://github.com/varunavi09/', label: 'GitHub' },
+    { icon: FaLinkedin, url: 'https://www.linkedin.com/in/varunavib/', label: 'LinkedIn' },
+    { icon: MdEmail, url: 'mailto:varunavi.vi@gmail.com', label: 'Email' },
   ]
 
   return (
@@ -86,7 +86,7 @@ const Hero = () => {
                 className="w-full h-full rounded-full border-2 border-accent overflow-hidden glass"
               >
                 <img
-                  src="/src/assets/varunavi-profile.jpeg"
+                  src="src\assets\varunavi-profile.jpeg"
                   alt="Profile"
                   className="w-full h-full object-cover"
                 />
