@@ -7,11 +7,11 @@ export default function ContactCard() {
   const socialLinks = [
     { icon: FiLinkedin, label: 'LinkedIn', url: 'https://www.linkedin.com/in/varunavib/', color: 'text-blue-400' },
     { icon: FiGithub, label: 'GitHub', url: 'https://github.com/varunavi09/', color: 'text-cyan-400' },
-    { icon: FiMail, label: 'Email', url: 'mailto:varunavi.v1@gmail.com', color: 'text-pink-400' },
+    { icon: FiMail, label: 'Email', url: 'mailto:varunavi.vi@gmail.com', color: 'text-pink-400' },
   ]
 
   const contactInfo = [
-    { icon: MdEmail, label: 'Email', value: 'varunavi.v1@gmail.com', link: 'mailto:varunavi.v1@gmail.com' },
+    { icon: MdEmail, label: 'Email', value: 'varunavi.vi@gmail.com', link: 'mailto:varunavi.vi@gmail.com' },
     { icon: MdLocationOn, label: 'Location', value: 'Tamil Nadu, India' },
   ]
 
