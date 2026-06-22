@@ -8,10 +8,10 @@ const Footer = () => {
   const currentYear = new Date().getFullYear()
 
   const socialLinks = [
-    { icon: FaGithub, href: 'https://github.com', label: 'GitHub' },
-    { icon: FaLinkedin, href: 'https://linkedin.com', label: 'LinkedIn' },
+    { icon: FaGithub, href: 'https://github.com/varunavi09/', label: 'GitHub' },
+    { icon: FaLinkedin, href: 'https://www.linkedin.com/in/varunavib/', label: 'LinkedIn' },
     { icon: FaTwitter, href: 'https://twitter.com', label: 'Twitter' },
-    { icon: FaEnvelope, href: 'mailto:your.email@example.com', label: 'Email' },
+    { icon: FaEnvelope, href: 'mailto:varunavi.vi@gmail.com', label: 'Email' },
   ]
 
   const quickLinks = [
@@ -37,7 +37,7 @@ const Footer = () => {
               whileHover={{ scale: 1.05 }}
               className="text-2xl font-bold gradient-text mb-2"
             >
-              Varun
+              Varunavi
             </motion.h3>
             <p className="text-text-secondary">
               Full Stack Developer | B.Tech IT Student
@@ -112,7 +112,7 @@ const Footer = () => {
           className="text-center"
         >
           <p className="text-text-secondary text-sm">
-            © {currentYear} Varun. All rights reserved. | Designed with{' '}
+            © {currentYear} Varunavi. All rights reserved. | Designed with{' '}
             <motion.span
               animate={{ rotate: [0, 15, 0] }}
               transition={{ duration: 1.5, repeat: Infinity }}

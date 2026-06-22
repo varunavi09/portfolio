@@ -17,7 +17,7 @@ export default function ContactCard() {
 
   const handleSubmit = (event) => {
     event.preventDefault()
-    window.location.href = 'mailto:varunavi.v1@gmail.com'
+    window.location.href = 'mailto:varunavi.vi@gmail.com'
   }
 
   return (
@@ -173,11 +173,11 @@ export default function ContactCard() {
             >
               Or reach out directly at{' '}
               <motion.a
-                href="mailto:varunavi.v1@gmail.com"
+                href="mailto:varunavi.vi@gmail.com"
                 whileHover={{ color: '#5EEAD4' }}
                 className="text-teal-200 font-semibold hover:underline"
               >
-                varunavi.v1@gmail.com
+                varunavi.vi@gmail.com
               </motion.a>
             </motion.p>
           </motion.div>
