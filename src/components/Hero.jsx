@@ -86,7 +86,7 @@ const Hero = () => {
                 className="w-full h-full rounded-full border-2 border-accent overflow-hidden glass"
               >
                 <img
-                  src="src\assets\varunavi-profile.jpeg"
+                  src="/img/varunavi-profile.jpeg"
                   alt="Profile"
                   className="w-full h-full object-cover"
                 />
