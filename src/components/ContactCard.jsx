@@ -5,8 +5,8 @@ import AnimatedSection from './AnimatedSection'
 
 export default function ContactCard() {
   const socialLinks = [
-    { icon: FiLinkedin, label: 'LinkedIn', url: 'https://linkedin.com', color: 'text-blue-400' },
-    { icon: FiGithub, label: 'GitHub', url: 'https://github.com', color: 'text-cyan-400' },
+    { icon: FiLinkedin, label: 'LinkedIn', url: 'https://www.linkedin.com/in/varunavib/', color: 'text-blue-400' },
+    { icon: FiGithub, label: 'GitHub', url: 'https://github.com/varunavi09/', color: 'text-cyan-400' },
     { icon: FiMail, label: 'Email', url: 'mailto:varunavi.v1@gmail.com', color: 'text-pink-400' },
   ]
 

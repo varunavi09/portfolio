@@ -118,13 +118,7 @@ const IntroCard = ({ onExplore }) => {
                     transition={{ duration: 25, repeat: Infinity, ease: 'linear' }}
                     className="absolute -inset-9 rounded-full border border-dashed border-violet-300/25"
                   />
-                  <motion.div
-                    animate={{ y: [0, -10, 0] }}
-                    transition={{ duration: 3, repeat: Infinity }}
-                    className="absolute -right-4 top-10 rounded-2xl border border-teal-200/20 bg-dark-bg/70 px-3 py-2 text-xs font-bold text-teal-200 backdrop-blur-md"
-                  >
-                    OPEN TO BUILD
-                  </motion.div>
+                  
                 </div>
               </motion.div>
 

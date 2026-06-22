@@ -19,14 +19,14 @@ const Contact = () => {
     {
       icon: <FiMail className="text-3xl" />,
       label: 'Email',
-      value: 'your.email@example.com',
-      href: 'mailto:your.email@example.com',
+      value: 'varunavi.vi@gmail.com',
+      href: 'mailto:varunavi.vi@gmail.com',
     },
     {
       icon: <FiPhone className="text-3xl" />,
       label: 'Phone',
-      value: '+91 XXXXXXXXXX',
-      href: 'tel:+91XXXXXXXXXX',
+      value: '+91 9787745835',
+      href: 'tel:+919787745835',
     },
     {
       icon: <FiMapPin className="text-3xl" />,
@@ -37,8 +37,8 @@ const Contact = () => {
   ]
 
   const socialLinks = [
-    { icon: <FaGithub className="text-2xl" />, href: 'https://github.com', label: 'GitHub' },
-    { icon: <FaLinkedin className="text-2xl" />, href: 'https://linkedin.com', label: 'LinkedIn' },
+    { icon: <FaGithub className="text-2xl" />, href: 'https://github.com/varunavi09/', label: 'GitHub' },
+    { icon: <FaLinkedin className="text-2xl" />, href: 'https://www.linkedin.com/in/varunavib/', label: 'LinkedIn' },
     { icon: <FaTwitter className="text-2xl" />, href: 'https://twitter.com', label: 'Twitter' },
   ]
 
@@ -130,7 +130,7 @@ const Contact = () => {
                   name="email"
                   value={formData.email}
                   onChange={handleChange}
-                  placeholder="your.email@example.com"
+                  placeholder="varunavi.vi@gmail.com"
                   required
                   className="w-full px-4 py-3 rounded-lg glass border border-accent border-opacity-20 focus:outline-none focus:border-opacity-50 bg-dark-secondary bg-opacity-50 text-text-primary placeholder-text-secondary transition-smooth"
                 />
