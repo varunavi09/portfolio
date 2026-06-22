@@ -1,0 +1,78 @@
+export const projectsData = [
+  {
+    id: 1,
+    title: 'AI-Based Smart Poultry Health Monitoring System',
+    description: 'An intelligent solution that analyzes poultry images and videos to identify health conditions and provide early alerts to farmers.',
+    story: 'Built an AI-powered solution that analyzes poultry images and videos to identify health conditions and provide early alerts to farmers for preventive care.',
+    icon: '🤖',
+    category: 'AI & Computer Vision',
+    technologies: ['TensorFlow', 'OpenCV', 'Python'],
+    image: 'https://images.unsplash.com/photo-1677401132019-21780ecad995?w=600&h=400&fit=crop',
+    features: [
+      'Poultry disease detection',
+      'Image & video analysis',
+      'Real-time monitoring',
+      'Automated dashboard'
+    ],
+    github: 'https://github.com',
+    liveDemo: '#',
+    highlights: ['AI-Powered', 'Real-Time Detection', 'IoT Ready'],
+  },
+  {
+    id: 2,
+    title: 'Mentor Connect',
+    description: 'A platform connecting mentors and mentees through intelligent scheduling and seamless communication.',
+    story: 'Developed a platform that connects mentors and mentees, enabling real-time communication, video meetings, and efficient booking management.',
+    icon: '🌐',
+    category: 'MERN Stack',
+    technologies: ['React', 'Node.js', 'Express', 'MongoDB'],
+    image: 'https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&h=400&fit=crop',
+    features: [
+      'Mentor discovery',
+      'Booking system',
+      'Real-time communication',
+      'Video meetings'
+    ],
+    github: 'https://github.com',
+    liveDemo: '#',
+    highlights: ['Real-time Chat', 'Video Integration', 'Smart Scheduling'],
+  },
+  {
+    id: 3,
+    title: 'Alumni Student Interconnect Platform',
+    description: 'A community-driven platform that bridges the gap between students and alumni.',
+    story: 'Built a comprehensive networking platform enabling alumni and students to connect, share opportunities, manage events, and build lasting professional relationships.',
+    icon: '🚀',
+    category: 'MERN Stack',
+    technologies: ['React', 'Node.js', 'Express', 'MongoDB'],
+    image: 'https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&h=400&fit=crop',
+    features: [
+      'Alumni networking',
+      'Job opportunities',
+      'Events management',
+      'User management'
+    ],
+    github: 'https://github.com',
+    liveDemo: '#',
+    highlights: ['Community Driven', 'Job Board', 'Event Management'],
+  },
+  {
+    id: 4,
+    title: 'NLP Product Review Sentiment Analyzer',
+    description: 'An NLP-based system capable of analyzing product reviews and extracting customer sentiment trends.',
+    story: 'Created a sophisticated NLP system that analyzes product reviews in real-time, classifies sentiments, and provides actionable insights through an interactive dashboard.',
+    icon: '🧠',
+    category: 'NLP & AI',
+    technologies: ['Python', 'NLP', 'Machine Learning'],
+    image: 'https://images.unsplash.com/photo-1677401132019-21780ecad995?w=600&h=400&fit=crop',
+    features: [
+      'Review classification',
+      'Sentiment detection',
+      'Dashboard insights',
+      'Automated analysis'
+    ],
+    github: 'https://github.com',
+    liveDemo: '#',
+    highlights: ['NLP Powered', 'Real-Time Analysis', 'Visual Insights'],
+  },
+]
