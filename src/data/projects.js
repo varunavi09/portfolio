@@ -33,7 +33,7 @@ export const projectsData = [
       'Real-time communication',
       'Video meetings'
     ],
-    github: 'https://github.com',
+    github: 'https://github.com/varunavi09/mentor-mentee',
     liveDemo: '#',
     highlights: ['Real-time Chat', 'Video Integration', 'Smart Scheduling'],
   },
@@ -52,7 +52,7 @@ export const projectsData = [
       'Events management',
       'User management'
     ],
-    github: 'https://github.com',
+    github: 'https://github.com/varunavi09/alumini_git',
     liveDemo: '#',
     highlights: ['Community Driven', 'Job Board', 'Event Management'],
   },
@@ -72,7 +72,7 @@ export const projectsData = [
       'Automated analysis'
     ],
     github: 'https://github.com',
-    liveDemo: '#',
+    liveDemo: 'https://sentimentanalysisappnlp-exsshvxf5axgqcvh6fzmxy.streamlit.app/',
     highlights: ['NLP Powered', 'Real-Time Analysis', 'Visual Insights'],
   },
 ]
